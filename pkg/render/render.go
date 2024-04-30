@@ -2,8 +2,8 @@ package render
 
 import (
 	"bytes"
-	"github.com/tingyuan/bookings/pkg/config"
-	"github.com/tingyuan/bookings/pkg/models"
+	"github.com/niutingyuan/bookings/pkg/config"
+	"github.com/niutingyuan/bookings/pkg/models"
 	"html/template"
 	"log"
 	"net/http"

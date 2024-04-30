@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/tingyuan/bookings/pkg/config"
-	"github.com/tingyuan/bookings/pkg/models"
-	"github.com/tingyuan/bookings/pkg/render"
+	"github.com/niutingyuan/bookings/pkg/config"
+	"github.com/niutingyuan/bookings/pkg/models"
+	"github.com/niutingyuan/bookings/pkg/render"
 	"net/http"
 )
 

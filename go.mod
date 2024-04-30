@@ -1,4 +1,4 @@
-module github.com/tingyuan/bookings
+module github.com/niutingyuan/bookings
 
 go 1.22.2
 
